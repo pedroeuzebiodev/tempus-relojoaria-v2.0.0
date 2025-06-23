@@ -64,10 +64,10 @@
 }
 
 #section-best-sellers span {
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 2.4rem;
+  font-weight: 600;
 
-  line-height: 2.4rem;
+  line-height: 3rem;
 
   color: var(--primary);
 }
