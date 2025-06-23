@@ -1,0 +1,38 @@
+#section-selection-by-brand {
+  background: var(--secondary);
+}
+
+#section-selection-by-brand h2 {
+  font-size: 3rem;
+  font-weight: 600;
+
+  line-height: 3.6rem;
+
+  text-align: center;
+
+  margin-bottom: 3rem;
+}
+
+#section-selection-by-brand #selection-by-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12.8rem;
+
+  padding: 3rem;
+}
+
+#section-selection-by-brand img {
+  width: 100%;
+  max-width: 19.6rem;
+
+  transition: all 0.3s ease-in-out;
+}
+
+#section-selection-by-brand img#technos-logo-2 {
+  max-width: 22.8rem;
+}
+
+#section-selection-by-brand img:hover {
+  transform: translateY(-0.8rem);
+}
