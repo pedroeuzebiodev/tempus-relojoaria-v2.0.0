@@ -13,3 +13,12 @@ body * {
 
   margin: auto;
 }
+
+header,
+nav {
+  padding: 3rem;
+}
+
+section {
+  padding: 4.8rem 3rem;
+}
