@@ -38,14 +38,14 @@
   max-width: 12.8rem;
 }
 
-#section-brands img#technos {
+#section-brands img#technos-logo {
   max-width: 15.6rem;
 }
 
 #section-brands p {
-  font-size: 2rem;
+  font-size: 1.8rem;
 
-  line-height: 2.4rem;
+  line-height: 2rem;
 
-  margin-top: 2.4rem;
+  margin-top: 3rem;
 }
