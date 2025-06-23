@@ -1,0 +1,23 @@
+nav {
+  padding: 3rem;
+
+  background: var(--primary);
+}
+
+nav ul {
+  list-style: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+nav a {
+  text-decoration: none;
+
+  font-size: 2rem;
+  font-weight: 500;
+
+  line-height: 2.4rem;
+}
