@@ -1,0 +1,51 @@
+#section-brands {
+  background: var(--secondary);
+}
+
+#section-brands h2 {
+  font-size: 3rem;
+  font-weight: 600;
+
+  line-height: 3.6rem;
+
+  text-align: center;
+
+  margin-bottom: 3rem;
+}
+
+#section-brands #brands {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+#section-brands .brand {
+  width: 100%;
+  max-width: 38.8rem;
+
+  text-align: center;
+
+  transition: all 0.3s ease-in-out;
+}
+
+#section-brands .brand:hover {
+  transform: translateY(-0.8rem);
+}
+
+#section-brands img {
+  width: 100%;
+  max-width: 12.8rem;
+}
+
+#section-brands img#technos {
+  max-width: 15.6rem;
+}
+
+#section-brands p {
+  font-size: 2rem;
+
+  line-height: 2.4rem;
+
+  margin-top: 2.4rem;
+}
