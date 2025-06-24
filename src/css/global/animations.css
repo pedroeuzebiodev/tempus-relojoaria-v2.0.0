@@ -1,0 +1,9 @@
+@keyframes appears {
+  from {
+    translate: -100vw 0;
+  }
+
+  to {
+    translate: 0 0;
+  }
+}

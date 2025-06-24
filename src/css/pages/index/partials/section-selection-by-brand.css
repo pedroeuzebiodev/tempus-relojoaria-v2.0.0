@@ -26,16 +26,10 @@
 #section-selection-by-brand img {
   width: 100%;
   max-width: 19.6rem;
-
-  transition: all 0.3s ease-in-out;
 }
 
 #section-selection-by-brand img#technos-logo-2 {
   max-width: 22.8rem;
-}
-
-#section-selection-by-brand img:hover {
-  transform: translateY(-0.8rem);
 }
 
 @media (width >= 1024px) {

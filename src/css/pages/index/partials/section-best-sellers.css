@@ -34,12 +34,6 @@
   border-radius: 0.8rem;
 
   box-shadow: 0.4rem 0.4rem 0.6rem rgba(0, 0, 0, 0.2);
-
-  transition: all 0.3s ease-in-out;
-}
-
-#section-best-sellers .best-selling:hover {
-  transform: translateY(-0.8rem);
 }
 
 #section-best-sellers img {

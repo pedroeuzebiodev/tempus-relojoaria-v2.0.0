@@ -20,6 +20,8 @@
   font-weight: 700;
 
   line-height: 3.6rem;
+
+  animation: appears 2000ms ease-in-out;
 }
 
 #section-home span {
@@ -33,6 +35,8 @@
   line-height: 2.4rem;
 
   margin: 3rem 0;
+
+  animation: appears 2500ms ease-in-out;
 }
 
 #section-home a {
@@ -58,6 +62,8 @@
   cursor: pointer;
 
   transition: background 0.3s ease-in-out;
+
+  animation: appears 3000ms ease-in-out;
 }
 
 #section-home a:hover {
