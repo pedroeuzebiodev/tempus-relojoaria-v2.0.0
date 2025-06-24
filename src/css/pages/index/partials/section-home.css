@@ -67,6 +67,12 @@
 #section-home img {
   width: 100%;
   max-width: 28.8rem;
+
+  transition: all 0.3s ease-in-out;
+}
+
+#section-home img:hover {
+  transform: translateY(-0.8rem);
 }
 
 @media (width >= 1024px) {
