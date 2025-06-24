@@ -6,12 +6,21 @@ footer p,
 footer span {
   text-align: center;
 
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 
-  line-height: 1.8rem;
+  line-height: 1.6rem;
 }
 
 footer span {
   font-family: "Playfair Display", serif;
   font-style: italic;
+}
+
+@media (width >= 1024px) {
+  footer p,
+  footer span {
+    font-size: 1.6rem;
+
+    line-height: 1.8rem;
+  }
 }

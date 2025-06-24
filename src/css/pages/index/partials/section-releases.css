@@ -1,8 +1,8 @@
 #section-releases h2 {
-  font-size: 3rem;
+  font-size: 2.4rem;
   font-weight: 600;
 
-  line-height: 3.6rem;
+  line-height: 3rem;
 
   text-align: center;
 
@@ -14,6 +14,7 @@
   justify-content: center;
   align-items: center;
   gap: 3rem;
+  flex-wrap: wrap;
 }
 
 #section-releases .release {
@@ -26,7 +27,7 @@
   background: var(--secondary);
 
   width: 100%;
-  max-width: 28.8rem;
+  max-width: 38.4rem;
 
   padding: 3rem;
 
@@ -47,27 +48,61 @@
 }
 
 #section-releases h3 {
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-weight: 600;
 
-  line-height: 3rem;
+  line-height: 2.4rem;
 
   text-align: center;
 }
 
 #section-releases p {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 
-  line-height: 2rem;
+  line-height: 1.8rem;
 
   text-align: center;
 }
 
 #section-releases span {
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-weight: 600;
 
-  line-height: 3rem;
+  line-height: 2.4rem;
 
   color: var(--primary);
+}
+
+@media (width >= 768px) {
+  #section-releases p {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
+  }
+}
+
+@media (width >= 1024px) {
+  #section-releases h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #section-releases h3 {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
+
+  #section-releases p {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+
+  #section-releases span {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
 }

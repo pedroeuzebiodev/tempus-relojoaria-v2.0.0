@@ -1,4 +1,28 @@
+header #header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 header img {
   width: 100%;
   max-width: 12.8rem;
+}
+
+header #button-menu {
+  border: none;
+
+  background: transparent;
+
+  cursor: pointer;
+}
+
+header #button-menu-icon {
+  font-size: 4.8rem;
+}
+
+@media (width >= 1024px) {
+  header #button-menu {
+    display: none;
+  }
 }
