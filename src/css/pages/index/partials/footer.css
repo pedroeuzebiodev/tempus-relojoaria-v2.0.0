@@ -1,0 +1,17 @@
+footer {
+  background: var(--primary);
+}
+
+footer p,
+footer span {
+  text-align: center;
+
+  font-size: 1.6rem;
+
+  line-height: 1.8rem;
+}
+
+footer span {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}

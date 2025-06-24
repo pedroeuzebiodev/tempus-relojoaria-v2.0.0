@@ -2,10 +2,11 @@
 
 @import url(./partials/header.css);
 @import url(./partials/nav.css);
-@import url(./partials/section-about.css);
-@import url(./partials/section-best-sellers.css);
-@import url(./partials/section-brands.css);
-@import url(./partials/section-contact.css);
 @import url(./partials/section-home.css);
+@import url(./partials/section-about.css);
+@import url(./partials/section-brands.css);
+@import url(./partials/section-best-sellers.css);
 @import url(./partials/section-releases.css);
 @import url(./partials/section-selection-by-brand.css);
+@import url(./partials/section-contact.css);
+@import url(./partials/footer.css);
