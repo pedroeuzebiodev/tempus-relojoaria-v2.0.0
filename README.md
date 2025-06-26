@@ -95,7 +95,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
-- **[AOS]()**
+- **[AOS](https://michalsnik.github.io/aos)**
 
 #### **Utilitários**
 
@@ -111,7 +111,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/pedroeuzebio">
-  <img style="border-radius: 50%;" src="https://github.com/pedroeuzebiodev.png" width="100px;" alt="" />
+  <img style="border-radius: 50%;" src="https://i.imgur.com/uieVTmO.png" width="100px;" alt="" />
 
   <br />
 
